@@ -14,3 +14,6 @@ When introducing new features, like translating to a different language (italian
 
 Q: How do the diagrams help you visualize the branch structure?
 Seeing a drawing lets you trace the path for each branch. It makes it easier to see where different tracks split and what point they have in common.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches together combines the changes made in each branch into one branch. It also includes the history of changes in order by timestamp. It is represented in the diagram that way to provide a visual picture of them being combined again. This is a stupid question. 

@@ -9,3 +9,6 @@ A: Branching occurs in one repository. Clones and forks are similar, but forks a
 
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 A: You can still refer to it if you don't have internet access since it's stored locally.
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: Email a copy of the file to edit and agree only one person works on it at a time. This would slow down progress and eat up inbox storage space. Not using Git or GitHub would be much harder for collaboration.

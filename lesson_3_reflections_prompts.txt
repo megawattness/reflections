@@ -6,3 +6,6 @@ A: Automatically pulling from the remote repository might overwrite some in-prog
 
 Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
 A: Branching occurs in one repository. Clones and forks are similar, but forks are a type of clone exclusive to GitHub and only makes a copy on the GitHub servers. To get that forked repository on to your local machine you would still need to clone it from your GitHub account. You would use a fork when you don't have permission to update a repository but you want to give credit to the original author. 
+
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+A: You can still refer to it if you don't have internet access since it's stored locally.

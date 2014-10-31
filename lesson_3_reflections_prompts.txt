@@ -12,3 +12,6 @@ A: You can still refer to it if you don't have internet access since it's stored
 
 Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A: Email a copy of the file to edit and agree only one person works on it at a time. This would slow down progress and eat up inbox storage space. Not using Git or GitHub would be much harder for collaboration.
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: When you are introducing a new feature that you're not sure about yet. Also if you're collaborating with others or if you're introducing a change on something you didn't originally create. Keeping a clean master makes it so something is always "production" ready if you need to demo to a client. Less worries about breaking something if you create a separate branch and then merge it in later.
